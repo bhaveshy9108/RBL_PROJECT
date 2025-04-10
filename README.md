@@ -3,12 +3,15 @@
 <details>
   <summary>Click to view mental health project components</summary>
 
-  - a) Chatbot  
-  - b) Gameified for mental health  
-  - c) Quizzes for mental health  
-  - d) Alzheimer (full-fledged support of the problem)  
+  <ul>
+    <li>a) Chatbot</li>
+    <li>b) Gameified for mental health</li>
+    <li>c) Quizzes for mental health</li>
+    <li>d) Alzheimer (full-fledged support of the problem)</li>
+  </ul>
 
 </details>
+
 
 # Other imp links that could be useful for the addition of the features:
  1) https://github.com/codewithriza/MoodTracker
